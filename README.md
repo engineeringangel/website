@@ -1,2 +1,2 @@
-# website
+# Website
 The public website.
